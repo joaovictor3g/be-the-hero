@@ -1,8 +1,8 @@
-# Be-The-Hero
+# Semana Omnistack 11
 
 Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site que registra casos que interessam a ONGs. Como exemplo um cachorro foi atropelado e essa ONG necessita recursos para pagar o tratamento.
 
-# Semana Omnistack 11
+# Be-The-Hero
 
 ### Primeiro dia.
 
