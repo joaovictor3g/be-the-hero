@@ -78,7 +78,7 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
         8. Entrar em contato com a ONG (WhatsApp, Email)
     - **knex**
         1. Acessar documentação sobre [knex migrations](http://knexjs.org/#Migrations)
-        2. Acessar a parte sobre [criação de tabelas](http://knexjs.org/#Schema-createTable).
+        2. Acessar a parte sobre [criação de tabelas](http://knexjs.org/#Schema-ja).
         3. criar uma migration: 
 
                 npx knex migrate:make name_table
@@ -143,8 +143,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
         - `<Text />`: para elementos textuais;
         - Não existe hierarquia de tag
     3. Estilização
-        - Flexbox: Já vem display:flex, por padrão para todos os elementos.
-        - Propriedades: As estilizações como por exemplo "background-color" do CSS, muda no React Native, pois as estilizações são passadas como objeto. Este comando por exemplo se torna backgroundColor, ou seja a primeira letra da segunda palavra vai pra maiusculo.
+        - Flexbox: Já vem `display:flex`, por padrão para todos os elementos.
+        - Propriedades: As estilizações como por exemplo `background-color: #FFF` do CSS, muda no React Native, pois as estilizações são passadas como objeto. Este comando por exemplo se torna `backgroundColor: '#FFF'`, ou seja a primeira letra da segunda palavra vai pra maiusculo.
         - Herança de estilos: Não existe, cada componente tem que possuir estilização própria.
         - Estilização própria
 - **Estrutura de pastas.**
