@@ -14,6 +14,10 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 
         node index.js
 
+- Instalar express
+
+        npm install express
+
 - importando express
 
     ```JS
@@ -119,6 +123,10 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 - **Listagem de casos**
 - **Cadastro de novo caso**
 - **Conectando aplicação a API**
+    -Na pasta do backend, fazer instalação do `cors`, rodando:
+            
+        npm install cors
+
 - **Upar pro GitHub**
 
 ### Quarto dia
