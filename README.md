@@ -78,7 +78,7 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
         8. Entrar em contato com a ONG (WhatsApp, Email)
     - **knex**
         1. Acessar documentação sobre [knex migrations](http://knexjs.org/#Migrations)
-        2. Acessar a parte em que fala sobre criação de tabelas.
+        2. Acessar a parte sobre [criação de tabelas](http://knexjs.org/#Schema-createTable).
         3. criar uma migration: 
 
                 npx knex migrate:make name_table
