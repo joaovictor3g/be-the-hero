@@ -181,7 +181,7 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
     - Por que fazer testes?
         - Como saber que uma aplicação com mais de 1000 telas está funcional em todas.
     - TDD: (Test-driven Development)
-    - Configurando jest.
+    - Configurando [jest](https://jestjs.io/).
         - Instalação:
 
                 npm install jest -D
@@ -194,7 +194,10 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
         - Teste Unitário: testa algo muito específico do código, não chega no banco de dados
         - Teste de Integração: Testa a aplicação como um todo.
     - Configurando banco de testes.
-        - Para executar os testes: npm test
+        - Para executar os testes: 
+            
+                npm test
+    
     - Instalando Supertest
 
             npm install supertest -D
