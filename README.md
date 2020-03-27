@@ -199,7 +199,7 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 - Deploy
     - Alternativas Backend:
         - [Heroku](https://www.heroku.com/pricing)
-        - [Digitall Ocean]([https://www.digitalocean.com](https://www.digitalocean.com/))
+        - [Digital Ocean](https://www.digitalocean.com)
     - Alternativas Frontend:
         - [Netlify](https://www.netlify.com)
     - Qual escolher?
