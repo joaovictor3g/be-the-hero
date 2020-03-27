@@ -28,8 +28,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 
 
 - Abordagem Tradicional vs Abordagem SPA
-- `NPM`: instala um pacote
-- `NPX`:executa um pacote
+- `npm`: instala um pacote
+- `npx`:executa um pacote
 
 ## Segundo dia.
 ### Criando a base da aplicação
