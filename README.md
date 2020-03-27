@@ -4,7 +4,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 
 # Be-The-Hero
 
-### Primeiro dia.
+## Primeiro dia.
+### Conhecendo a OmniStack.
 
 - Começando projeto em nodejs
    
@@ -30,7 +31,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 - `NPM`: instala um pacote
 - `NPX`:executa um pacote
 
-### Segundo dia.
+## Segundo dia.
+### Criando a base da aplicação
 
 - **NodeJs e Express**
     - Rotas e recursos
@@ -99,8 +101,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 - **Adicionando módulos**
 - **Upar para GitHub**
 
-### **Terceiro dia**
-
+## **Terceiro dia**
+### Construindo a interface WEB
 - **Iniciar projeto**
     - Instalando o comando de forma global
 
@@ -129,7 +131,8 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 
 - **Upar pro GitHub**
 
-### Quarto dia
+## Quarto dia
+### Desenvolvendo o App Mobile
 
 - **Instalação do Expo**
 
@@ -167,6 +170,7 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
 - **Upar pro GitHub**
 
 ## Quinto dia
+### Funcionalidades avançadas
 
 - Adicionar validação
     - Usar a biblioteca celebrate, que pode ser instalada com:
