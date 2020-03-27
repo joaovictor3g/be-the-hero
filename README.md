@@ -54,13 +54,13 @@ Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site qu
         
             npm install knex --save
 
-     e utilzar Sqlite com SGBD, usando o comando 
+        e utilzar Sqlite com SGBD, usando o comando 
 
-            npm install sqlite3 
+                npm install sqlite3 
 
-    tudo disponibilizado na [documentação do knex](http://knexjs.org/#Installation). Após isso, rodar 
+        tudo disponibilizado na [documentação do knex](http://knexjs.org/#Installation). Após isso, rodar 
 
-        npx knex init
+            npx knex init
 
     3. Criação de um arquivo de rotas(routes.js), afim de desacoplar do arquivo index.
 
