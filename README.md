@@ -1,8 +1,5 @@
 # Semana Omnistack 11
 
-
-[![MIT License][license-badge]][license]
-
 Aplicação desenvolvida junto a semana omnistack 11, que visa, criar um site que registra casos que interessam a ONGs. Como exemplo um cachorro foi atropelado e essa ONG necessita recursos para pagar o tratamento.
 
 # Be-The-Hero
