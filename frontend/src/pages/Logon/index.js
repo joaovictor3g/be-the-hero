@@ -27,7 +27,13 @@ function Logon() {
 
         } catch (err) {
             alert('Falha no Login, tente novamente');
+            
+            eraseInput();
         }
+    }
+
+    function eraseInput() {
+        setId('');
     }
 
     return (
@@ -42,6 +48,7 @@ function Logon() {
                         placeholder="Sua ID" 
                         value={id}
                         onChange={e => setId(e.target.value)}
+
                     />
                     <button className="button" type="submit">Entrar</button>
 
